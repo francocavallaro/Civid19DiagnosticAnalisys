@@ -1,0 +1,1 @@
+# Civid19DiagnosticAnalisys
